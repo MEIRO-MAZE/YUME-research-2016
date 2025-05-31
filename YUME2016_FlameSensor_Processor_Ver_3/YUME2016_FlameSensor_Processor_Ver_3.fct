@@ -1,0 +1,3 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"YUME2016_FlameSensor_Processor_Ver_3.c" LINE:185
+max DSTACK_USAGE:4 DSTACK_LEVEL:4 FILE:"C:\Softwares\Engineering Softwares\Embedded Programming Softwares\CodeVision AVR 2.0.5\lib\math.lib" LINE:77
+usart_rx_isr DSTACK_USAGE:5 DSTACK_LEVEL:9 FILE:"YUME2016_FlameSensor_Processor_Ver_3.c" LINE:92
